@@ -77,16 +77,6 @@ Members are encouraged to add their names to the aspects they can contribute to 
 
 
 
-# TozarGameDev
-
-## Sage 1:
-
-### map:
-- ground : sandy, rock
-- buildings : pyramide, square shaped houses, mosques
-- vegetations : palm tree, cactus, 
-- Animals : scorpion, lizards, spiders, locust
-
 ### Characters:
 - main character Fennec boy, his grand Father, some marchants 
 
