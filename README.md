@@ -75,6 +75,6 @@ Members are encouraged to add their names to the aspects they can contribute to 
 - **Task Management:** Use project management tools to track progress.
 - **Documentation:** Maintain detailed documentation for reference and onboarding new team members.
 
-[TozarGameDev](TozarGameDev/TozarGameDev.md)
+[TozarGameDev]([TozarGameDev/TozarGameDev.md](https://github.com/Anouar0000/TozarGameDev/blob/main/TozarGameDev.md#tozargamedev))
 
 
