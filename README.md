@@ -75,11 +75,6 @@ Members are encouraged to add their names to the aspects they can contribute to 
 - **Task Management:** Use project management tools to track progress.
 - **Documentation:** Maintain detailed documentation for reference and onboarding new team members.
 
+[TozarGameDev](TozarGameDev/TozarGameDev.md)
 
-
-### Characters:
-- main character Fennec boy, his grand Father, some marchants 
-
-### Story Time:
- - old times, 
 
